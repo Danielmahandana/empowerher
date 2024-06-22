@@ -1,0 +1,44 @@
+.case-analysis h2 {
+  font-size: 1.875rem;
+  font-weight: 600;
+  color: var(--color-eco-green-600);
+  margin-bottom: 1.5rem;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--color-neutral-600);
+}
+
+.analysis-results {
+  margin-top: 2rem;
+}
+
+.analysis-results h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--color-ocean-blue-600);
+  margin-bottom: 1rem;
+}
+
+.analysis-results p {
+  color: var(--color-neutral-600);
+  margin-bottom: 1rem;
+}
+
+.error-message {
+  color: red;
+  margin-top: 1rem;
+}
+
+.chart-container {
+  margin-top: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}

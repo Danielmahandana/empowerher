@@ -1,0 +1,16 @@
+.evidence-upload h2 {
+    font-size: 1.875rem;
+    font-weight: 600;
+    color: var(--color-eco-green-600);
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--color-neutral-600);
+  }
